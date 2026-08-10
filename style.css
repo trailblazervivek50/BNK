@@ -1,0 +1,40 @@
+:root {
+    --primary: #2ecc71;
+    --dark: #27ae60;
+    --light: #f4f4f4;
+    --text: #333;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+body { background: var(--light); color: var(--text); }
+
+.navbar {
+    background: white; padding: 1rem 5%; display: flex; justify-content: space-between;
+    align-items: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 1000;
+}
+.logo { font-size: 1.5rem; font-weight: bold; color: var(--dark); text-decoration: none; }
+.nav-links a { margin-left: 20px; text-decoration: none; color: var(--text); font-weight: 500; }
+.nav-links a:hover, .nav-links a.active { color: var(--primary); }
+.btn-login { background: var(--primary); color: white; padding: 8px 20px; border-radius: 5px; text-decoration: none; }
+
+.container { max-width: 1100px; margin: 2rem auto; padding: 0 20px; }
+
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+    background-size: cover; height: 400px; display: flex; align-items: center; justify-content: center;
+    text-align: center; color: white; border-radius: 10px; margin-bottom: 2rem;
+}
+.hero h1 { font-size: 3rem; margin-bottom: 1rem; }
+
+.grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+.card h3 { color: var(--dark); margin-bottom: 10px; }
+
+.form-box { max-width: 400px; margin: 50px auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+.form-group { margin-bottom: 15px; }
+.form-group label { display: block; margin-bottom: 5px; }
+.form-group input { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
+.btn-submit { width: 100%; padding: 10px; background: var(--primary); color: white; border: none; border-radius: 4px; cursor: pointer; }
+.btn-submit:hover { background: var(--dark); }
+
+footer { background: #222; color: white; text-align: center; padding: 20px; margin-top: 50px; }
