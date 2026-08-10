@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - AgriConnect</title>
+    <title>Contact Us - BNK</title>
     <link rel="stylesheet" href="style.css">
     <style>
         :root {
@@ -108,7 +108,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo">🌾 AgriConnect</a>
+        <a href="index.php" class="logo">🌾 BNK</a>
         <div class="nav-links">
             <a href="index.php">Home</a>
             <a href="guidance.php">Crop Guidance</a>
@@ -271,7 +271,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2023 AgriConnect Hackathon Project | Built for Farmers</p>
+        <p>&copy; 2023 BNK Hackathon Project | Built for Farmers</p>
     </footer>
 </body>
 </html>

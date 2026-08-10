@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - AgriConnect</title>
+    <title>About Us - BNK</title>
     <link rel="stylesheet" href="style.css">
     <style>
         :root {
@@ -104,7 +104,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo">🌾 AgriConnect</a>
+        <a href="index.php" class="logo">🌾 BNK</a>
         <div class="nav-links">
             <a href="index.php">Home</a>
             <a href="guidance.php">Crop Guidance</a>
@@ -149,7 +149,7 @@
         <div class="about-section">
             <h2>🌱 Who We Are</h2>
             <p>
-                AgriConnect is a revolutionary agricultural platform designed to empower farmers across India with 
+                BNK is a revolutionary agricultural platform designed to empower farmers across India with 
                 cutting-edge technology and real-time information. We believe that every farmer deserves access to 
                 the latest market prices, expert crop guidance, and government schemes to maximize their productivity 
                 and profitability.
@@ -231,7 +231,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2023 AgriConnect Hackathon Project | Built for Farmers</p>
+        <p>&copy; 2023 BNK Hackathon Project | Built for Farmers</p>
     </footer>
 </body>
 </html>

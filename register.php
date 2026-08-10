@@ -54,14 +54,14 @@ if (isset($_POST['register'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Register - AgriConnect</title>
+    <title>Register - BNK</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <nav class="navbar">
-    <a href="index.php" class="logo">AgriConnect</a>
+    <a href="index.php" class="logo">BNK</a>
     <div class="nav-links">
         <a href="index.php">Home</a>
         <a href="login.php">Login</a>

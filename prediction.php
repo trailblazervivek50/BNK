@@ -200,7 +200,7 @@ reader.readAsDataURL(event.target.files[0]);
 
 <div class="navbar">
 
-<a href="index.php" class="logo">AgriConnect</a>
+<a href="index.php" class="logo">BNK</a>
 
 <div class="nav-links">
 

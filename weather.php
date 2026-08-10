@@ -34,7 +34,7 @@ else{
 <html>
 <head>
 
-<title>Agro Vision Weather Advisory</title>
+<title>BNK Weather Advisory</title>
 
 <style>
 
@@ -82,7 +82,7 @@ font-size:18px;
 <body>
 
 <div class="navbar">
-Agro Vision Weather Advisory
+BNK Weather Advisory
 </div>
 
 <div class="container">

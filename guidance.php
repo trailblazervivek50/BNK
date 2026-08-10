@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crop Guidance - AgriConnect</title>
+    <title>Crop Guidance - BNK</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> AgriConnect</a>
+        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> BNK</a>
         <div class="nav-links">
             <a href="index.php" class="active">Home</a>
             <a href="schemes.php">Govt Schemes</a>
@@ -94,7 +94,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2023 AgriConnect Hackathon Project | Built for Farmers</p>
+        <p>&copy; 2023 BNK Hackathon Project | Built for Farmers</p>
     </footer>
 
     <script>

@@ -1,6 +1,6 @@
 <?php 
 // Database Connection
-$conn = mysqli_connect("localhost", "root", "", "agri_db");
+$conn = mysqli_connect("localhost", "root", "", "bnk_db");
 
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());

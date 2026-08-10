@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "eno#098";
-$dbname = "agri_db";
+$dbname = "bnk_db";
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
 

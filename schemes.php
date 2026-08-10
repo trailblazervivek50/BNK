@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Govt Schemes - AgriConnect</title>
+    <title>Govt Schemes - BNK</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <style>
@@ -128,7 +128,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> AgriConnect</a>
+        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> BNK</a>
         <div class="nav-links">
             <a href="index.php" class="active">Home</a>
             <a href="scheme.php">Govt Schemes</a>

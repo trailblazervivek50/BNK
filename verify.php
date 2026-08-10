@@ -73,7 +73,7 @@ font-weight:bold;
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> AgriConnect</a>
+        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> BNK</a>
         <div class="nav-links">
             <a href="index.php" class="active">Home</a>
             <a href="scheme.php">Govt Schemes</a>

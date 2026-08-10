@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home - AgriConnect</title>
+    <title>Home - BNK</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> AgriConnect</a>
+        <a href="index.php" class="logo"><i class="fas fa-leaf"></i> BNK</a>
         <div class="nav-links">
             <a href="index.php" class="active">Home</a>
             <a href="scheme.php">Govt Schemes</a>
@@ -57,7 +57,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2023 AgriConnect Hackathon Project</p>
+        <p>&copy; 2023 BNK Hackathon Project</p>
     </footer>
 </body>
 </html>
