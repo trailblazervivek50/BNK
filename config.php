@@ -1,8 +1,9 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "eno#098";
-$dbname = "bnk_db";
+
+$host = "sql111.infinityfree.com";
+$user = "if0_42638493";
+$pass = "sI6N9UjADL";
+$dbname = "if0_42638493_bnk";
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
 
@@ -11,4 +12,5 @@ if (!$conn) {
 }
 
 session_start();
+
 ?>
